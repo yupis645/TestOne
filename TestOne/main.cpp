@@ -9,7 +9,7 @@ int main(void)
 	printf("ブランチ作成後に追加した行");
 
 	if (A == 0) {
-		printf("Aは0");
+		printf("Aは0,でもAは1かも？");
 	}
 
 	return 0;
