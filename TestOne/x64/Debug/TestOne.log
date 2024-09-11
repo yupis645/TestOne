@@ -1,3 +1,3 @@
 ﻿  main.cpp
-C:\Users\ohs30679\Desktop\TestOne\TestOne\main.cpp(6,7): warning C4101: 'B': ローカル変数は 1 度も使われていません。
+C:\Users\ohs30679\Desktop\TestOne\TestOne\main.cpp(7,7): warning C4101: 'B': ローカル変数は 1 度も使われていません。
   TestOne.vcxproj -> C:\Users\ohs30679\Desktop\TestOne\x64\Debug\TestOne.exe

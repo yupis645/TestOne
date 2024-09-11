@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{075289EB-48F0-4C81-AE13-DA8426051A14}|TestOne\\TestOne.vcxproj|C:\\Users\\ohs30679\\Desktop\\TestOne\\TestOne\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{075289EB-48F0-4C81-AE13-DA8426051A14}|TestOne\\TestOne.vcxproj|solutionrelative:TestOne\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075289EB-48F0-4C81-AE13-DA8426051A14}|TestOne\\TestOne.vcxproj|C:\\Users\\ohs30679\\Desktop\\TestOne\\TestOne\\sturct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{075289EB-48F0-4C81-AE13-DA8426051A14}|TestOne\\TestOne.vcxproj|solutionrelative:TestOne\\sturct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sturct.h",
+              "DocumentMoniker": "C:\\Users\\ohs30679\\Desktop\\TestOne\\TestOne\\sturct.h",
+              "RelativeDocumentMoniker": "TestOne\\sturct.h",
+              "ToolTip": "C:\\Users\\ohs30679\\Desktop\\TestOne\\TestOne\\sturct.h",
+              "RelativeToolTip": "TestOne\\sturct.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T10:26:45.213Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "TestOne\\main.cpp",
               "ToolTip": "C:\\Users\\ohs30679\\Desktop\\TestOne\\TestOne\\main.cpp",
               "RelativeToolTip": "TestOne\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-11T01:37:33.876Z",
               "EditorCaption": ""
